@@ -43,10 +43,8 @@ void menuHandler::LoraRegionPicker(uint32_t duration)
                                          "UA_433",
                                          "UA_868",
                                          "MY_433",
-                                         "MY_"
-                                         "919",
-                                         "SG_"
-                                         "923",
+                                         "MY_919",
+                                         "SG_923",
                                          "PH_433",
                                          "PH_868",
                                          "PH_915",
